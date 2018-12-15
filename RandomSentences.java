@@ -40,7 +40,7 @@ public class RandomSentences
 		sb.append(chooseWords(preposition) + " ");
 		sb.append(chooseWords(article) + " ");
 		sb.append(chooseWords(noun) + ".");
-		System.out.println("Here");
+		System.out.println("Hello");
 		String sentence = sb.toString();
 		return sentence;
 
